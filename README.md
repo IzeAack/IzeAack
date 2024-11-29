@@ -2,7 +2,7 @@
    Hi I'm IzeAack
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-I'm interested in Minecraft and like to play playing with my friends
+I like to play with my friends
 
 <!--
 **IzeAack/IzeAack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
